@@ -11,7 +11,8 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Desafio Tech Pottencial: Payment API](https://web.dio.me/lab/desafio-tech-payment-api/learning/d777f14d-a261-482d-88bd-c1125d54d619)[Entendendo o desafio](https://web.dio.me/lab/desafio-tech-payment-api/learning/b028e7f2-fe00-4f7b-bbc7-cce096b88908)
+- [Desafio Tech Pottencial: Payment API](https://web.dio.me/lab/desafio-tech-payment-api/learning/d777f14d-a261-482d-88bd-c1125d54d619)
+- [Entendendo o desafio](https://web.dio.me/lab/desafio-tech-payment-api/learning/b028e7f2-fe00-4f7b-bbc7-cce096b88908)
 
 
 
